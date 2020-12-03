@@ -1,0 +1,9 @@
+.App{
+  display: grid;
+  grid-template-columns: 15% auto;
+}
+
+body{ 
+  background-image: url(https://spyrestudios.com/wp-content/uploads/10-bookshelves-study-background-layout.jpg);
+  margin: 0; 
+  padding: 0;  }
